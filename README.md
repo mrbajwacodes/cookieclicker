@@ -1,2 +1,0 @@
-# cookieclicker
-this shits ass
